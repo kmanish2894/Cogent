@@ -1,0 +1,3 @@
+Develop the program calculateHeight, which computes the height that a rocket reaches in a given amount of time. If the
+rocket accelerates at a constant rate g, it reaches a speed of g • t in t time units and a height of 1/2 * v * t where v is the 
+speed at t
